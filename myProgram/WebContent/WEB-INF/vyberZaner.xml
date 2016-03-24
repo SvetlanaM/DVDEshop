@@ -1,0 +1,16 @@
+<web-app xmlns="http://java.sun.com/xml/ns/j2ee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd"
+         Version="2.4">
+
+  <servlet>
+    <servlet-name>VyberServlet</servlet-name>
+    <servlet-class>Servlety.VyberServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>Zaner</servlet-name>
+    <url-pattern>/VyberServlet.do</url-pattern>
+  </servlet-mapping>
+
+</web-app>

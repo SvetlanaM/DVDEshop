@@ -1,0 +1,39 @@
+2011-08-06 13:44:48.398 GMT : Apache Derby Network Server - 10.6.2.1 - (999685) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+2011-08-06 13:49:52.244 GMT:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.6.2.1 - (999685): instance a816c00e-0131-9f56-bffb-00000000002e 
+on database directory C:\Users\Sveta\workspace\Visitor\sample  with class loader sun.misc.Launcher$AppClassLoader@bfbdb0 
+Loaded from file:/C:/Users/Sveta/Desktop/Programy/eclipse/plugins/org.apache.derby.core_10.6.2/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0-b147
+Database Class Loader started - derby.database.classpath=''
+
+2011-08-06 13:50:01.947 GMT:
+Shutting down instance a816c00e-0131-9f56-bffb-00000000002e with class loader sun.misc.Launcher$AppClassLoader@bfbdb0 
+----------------------------------------------------------------
+2011-08-06 13:50:02.103 GMT Thread[DRDAConnThread_4,5,main] (DATABASE = sample), (DRDAID = {2}), Database 'sample' shutdown.
+----------------------------------------------------------------
+2011-08-06 13:50:10.074 GMT:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.6.2.1 - (999685): instance c3350098-0131-9f56-bffb-00000000002e 
+on database directory C:\Users\Sveta\workspace\Visitor\sample  with class loader sun.misc.Launcher$AppClassLoader@bfbdb0 
+Loaded from file:/C:/Users/Sveta/Desktop/Programy/eclipse/plugins/org.apache.derby.core_10.6.2/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0-b147
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+2011-08-06 15:08:38.714 GMT:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.6.2.1 - (999685): instance 846c00a0-0131-9f56-bffb-00000000002e 
+on database directory C:\Users\Sveta\workspace\Visitor\myDB  with class loader sun.misc.Launcher$AppClassLoader@bfbdb0 
+Loaded from file:/C:/Users/Sveta/Desktop/Programy/eclipse/plugins/org.apache.derby.core_10.6.2/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0-b147
+Database Class Loader started - derby.database.classpath=''
+
+2011-08-06 15:08:41.570 GMT:
+Shutting down instance 846c00a0-0131-9f56-bffb-00000000002e with class loader sun.misc.Launcher$AppClassLoader@bfbdb0 
+----------------------------------------------------------------
+2011-08-06 15:08:41.648 GMT Thread[DRDAConnThread_5,5,main] (DATABASE = myDB), (DRDAID = {5}), Database 'myDB' shutdown.
+
+2011-08-06 20:17:16.312 GMT:
+Shutting down instance c3350098-0131-9f56-bffb-00000000002e with class loader sun.misc.Launcher$AppClassLoader@bfbdb0 
+----------------------------------------------------------------

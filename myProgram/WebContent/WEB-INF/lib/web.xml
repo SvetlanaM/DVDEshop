@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+  <display-name>Sveta_Projekt1</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+  <servlet>
+    <description></description>
+    <display-name>CD_v</display-name>
+    <servlet-name>CD_v</servlet-name>
+    <servlet-class>CD_v</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>CD_v</servlet-name>
+    <url-pattern>/CD_v</url-pattern>
+  </servlet-mapping>
+ 
+  <servlet>
+    <description></description>
+    <display-name>MyFormServlet</display-name>
+    <servlet-name>MyFormServlet</servlet-name>
+    <servlet-class>Servlet.MyFormServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>MyFormServlet</servlet-name>
+    <url-pattern>/MyFormServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>CD_v</display-name>
+    <servlet-name>CD_v</servlet-name>
+    <servlet-class>servlet.CD_v</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>CD_v</servlet-name>
+    <url-pattern>/CD_v</url-pattern>
+  </servlet-mapping>
+</web-app>
